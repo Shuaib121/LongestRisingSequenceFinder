@@ -1,0 +1,9 @@
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.deps.json
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.dll
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.pdb
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csprojAssemblyReference.cache
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfoInputs.cache
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfo.cs
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
+C:\Users\Shuaib\Desktop\Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb

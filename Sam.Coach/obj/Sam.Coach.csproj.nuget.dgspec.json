@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shuaib\\Desktop\\Sam.Coach.Test\\Sam.Coach\\Sam.Coach.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shuaib\\Desktop\\Sam.Coach.Test\\Sam.Coach\\Sam.Coach.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shuaib\\Desktop\\Sam.Coach.Test\\Sam.Coach\\Sam.Coach.csproj",
+        "projectName": "Sam.Coach",
+        "projectPath": "C:\\Users\\Shuaib\\Desktop\\Sam.Coach.Test\\Sam.Coach\\Sam.Coach.csproj",
+        "packagesPath": "C:\\Users\\Shuaib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shuaib\\Desktop\\Sam.Coach.Test\\Sam.Coach\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shuaib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.100-preview.5.20279.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
